@@ -1,6 +1,6 @@
 # Customer Retention Strategy for Telecom Industry
 
-#Introduction:
+# Introduction:
 
 The telecom industry is highly competitive, and customer retention plays a vital role in ensuring continued business success. Retaining customers is crucial because they are hard-earned, and their departure can directly affect the revenue stream. Currently, the Retention department of the telecom company operates reactively: engaging customers only after they have terminated their contracts. This approach leaves room for improvement in identifying at-risk customers before they make the decision to leave.
 
